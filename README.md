@@ -1,6 +1,7 @@
-# portfolio-customer-data
- 
- # Status = In Progress (15/05/2023)
+# Online Shop Customer Sales Data
+
+## Status
+ In Progress (15/05/2023)
 
  ## Dataset
 
