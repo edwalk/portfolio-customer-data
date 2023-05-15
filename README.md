@@ -27,22 +27,28 @@ n = 65796
 
 The aim of this segment of the project is to create a dashboard that could hypothetically be used by the business to monitor their online shop activity daily, based on the data gathered in this dataset. While the dataset used here is static, the dashboard will be created in a way that would allow for ongoing updates to the dataset, simulating a live business environment where the online shop customer sales data would be updated at regular intervals.
 
-The dashboard will aim to show:
+The dashboard will aim to show the following:
 
-- Customers: Average age
-- Customers: Age group breakdown
-- Customers: gender split
-- Customers: Count of lapsed one-off customers (people with a single purchase over 6 months ago)
-- Customers: Count of lapsed returning customers (people with more than one purchase, last active over 3 months ago)
-- Customers: Count of active returning customers (more than one purchase, last purchase less than 1 month ago)
-- Customers: Count of new customers (single purchase made in the last month)
-- Total Sales: Total count
-- Latest Sales: Average amount of latest purchase per customer
-- Latest Sales: Breakdown of different payment methods used
-- Latest Sales: Count of latest sales involving voucher usage
-- Latest Sales: Average time spent on website
-- Latest Sales: Breakdown of different browsers used
-- Latest Sales: Count of newsletter subscribers
+#### Customers
+
+- Average age
+- Age group breakdown
+- Gender split
+- Count of lapsed one-off customers (people with a single purchase over 6 months ago)
+- Count of lapsed returning customers (people with more than one purchase, last active over 3 months ago)
+- Count of active returning customers (more than one purchase, last purchase less than 1 month ago)
+- Count of new customers (single purchase made in the last month)
+
+### Total Sales
+- Count
+
+### Latest Sales
+- Average amount of latest purchase per customer
+- Breakdown of different payment methods used
+- Count of latest sales involving voucher usage
+- Average time spent on website
+- Breakdown of different browsers used
+- Count of newsletter subscribers
 
 Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
 
