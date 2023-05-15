@@ -6,18 +6,18 @@
  https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data
 
  ## Dataset variables
-Customer_id = unique customer id
-Age = customer's age
-Gender = 0: Male, 1: Female
-Revenue_Total = total sales by customer
-N_Purchases = number of purchases to date
-Purchase_DATE = date latest purchase, dd.mm.yy
-Purchase_VALUE = latest purchase in €
-Pay_Method = 0: Digital Wallets, 1: Card, 2: PayPal, 3: Other
-Time_Spent = time spent (in sec) on website
-Browser = 0: Chrome, 1: Safari, 2: Edge, 3: Other
-Newsletter = 0: not subscribed, 1: subscribed
-Voucher = 0: not used, 1: used
+- Customer_id = unique customer id
+- Age = customer's age
+- Gender = 0: Male, 1: Female
+- Revenue_Total = total sales by customer
+- N_Purchases = number of purchases to date
+- Purchase_DATE = date latest purchase, dd.mm.yy
+- Purchase_VALUE = latest purchase in €
+- Pay_Method = 0: Digital Wallets, 1: Card, 2: PayPal, 3: Other
+- Time_Spent = time spent (in sec) on website
+- Browser = 0: Chrome, 1: Safari, 2: Edge, 3: Other
+- Newsletter = 0: not subscribed, 1: subscribed
+- Voucher = 0: not used, 1: used
 
 ## Dataset sample size
 
