@@ -1,5 +1,7 @@
 # portfolio-customer-data
  
+ # Status = In Progress (15/05/2023)
+
  ## Dataset
 
  This portfolio project uses a dataset from Kaggle: Online Shop Customer Sales Data
