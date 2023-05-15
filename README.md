@@ -29,7 +29,7 @@ The aim of this segment of the project is to create a dashboard that could hypot
 
 The dashboard will aim to show the following:
 
-#### Customers
+### Customers
 
 - Average age
 - Age group breakdown
