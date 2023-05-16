@@ -1,17 +1,16 @@
 # Online Shop Customer Sales Data
 
 ## Status
-Project 1: Completed (15/05/2023)
+- Project 1: Completed (15/05/2023)
 Please check the Project 1 - Daily Monitoring Dashboard to download the .xslx file or a .pdf extract
 
-Project 2: Not started (15/05/2023)
+- Project 2: Not started (15/05/2023)
 
- ## Dataset
-
+## Dataset
  This portfolio project uses a dataset from Kaggle: Online Shop Customer Sales Data
  https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data
 
- ## Dataset variables
+## Dataset variables
 - Customer_id = unique customer id
 - Age = customer's age
 - Gender = 0: Male, 1: Female
