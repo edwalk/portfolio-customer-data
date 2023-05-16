@@ -3,7 +3,7 @@
 ## Status
 - Project 1: Completed (15/05/2023)
 
-Please check the Project 1 - Daily Monitoring Dashboard to download the .xslx file or a .pdf extract
+Please check the Project 1 - Daily Monitoring Dashboard to download the [<Excel file>](https://edward-walker.space/portfolio/files/monitoring_dashboard.xlsx) or a [PDF extract](https://edward-walker.space/portfolio/files/monitoring_dashboard_pdf.pdf).
 
 - Project 2: Not started (15/05/2023)
 
