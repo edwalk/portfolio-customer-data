@@ -1,7 +1,10 @@
 # Online Shop Customer Sales Data
 
 ## Status
- In Progress (15/05/2023)
+Project 1: Completed (15/05/2023)
+Please check the Project 1 - Daily Monitoring Dashboard to download the .xslx file or a .pdf extract
+
+Project 2: Not started (15/05/2023)
 
  ## Dataset
 
@@ -30,28 +33,41 @@ n = 65796
 
 The aim of this segment of the project is to create a dashboard that could hypothetically be used by the business to monitor their online shop activity daily, based on the data gathered in this dataset. While the dataset used here is static, the dashboard will be created in a way that would allow for ongoing updates to the dataset, simulating a live business environment where the online shop customer sales data would be updated at regular intervals.
 
-The dashboard will aim to show the following:
+### Skills displayed
+- Data Source insertion in PowerQuery
+- Data normalization and cleaning in PowerQuery
+- Pivot Tables
+- Pivot Charts
+- Dynamic Formulas & data points
+- Dashboard Design
+- Business analysis
+
+The dashboard displays the following:
 
 ### Customers
 
 - Average age
 - Age group breakdown
 - Gender split
-- Count of lapsed one-off customers (people with a single purchase over 6 months ago)
-- Count of lapsed returning customers (people with more than one purchase, last active over 3 months ago)
-- Count of active returning customers (more than one purchase, last purchase less than 1 month ago)
-- Count of new customers (single purchase made in the last month)
+- Average Time since last purchase 
+- Proportion of returning customers (more than a single purchase)
+- Proportion of single-purchase customers (only 1 purchase) 
+- Proportion of active returning customers (people with more than one purchase, with their last purchase made less than 90 days ago)
+- Proportion of lapsed returning customers (people with more than 1 purchase, with their last purchase made more than 90 days ago) 
+- Proportion of new customers (people with a single purchase within the last 90 days) 
+- Proportion of lapsed new customers (people with a single purchase more than 90 days ago) 
 
 ### Total Sales
-- Count
+- Count 
+- Average number of sales per customer 
 
 ### Latest Sales
-- Average amount of latest purchase per customer
-- Breakdown of different payment methods used
-- Count of latest sales involving voucher usage
-- Average time spent on website
+- Average amount of latest purchase per customer 
+- Breakdown of different payment methods used 
+- Proportion of latest sales involving voucher usage
+- Average time spent on website 
 - Breakdown of different browsers used
-- Count of newsletter subscribers
+- Proportion of newsletter subscribers
 
 Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
 
@@ -63,8 +79,8 @@ I will look to answer the following questions:
 - Do specific age groups or genders make more purchases on the website than others?
 - Have specific age groups spent more money on their latest purchase than others?
 - Are specific age groups more likely to use certain payment methods over others?
-- Are specific age groups more likely to be lapsed customers (more than 6 months since last purchase)?
-- Are specific genders more likely to be lapsed customers (more than 6 months since last purchase)?
+- Are specific age groups more likely to be lapsed customers (more than 180 days since last purchase)?
+- Are specific genders more likely to be lapsed customers (more than 180 days since last purchase)?
 - Does the customer's browser impact the value of their latest purchase, the time spent on the website, and the total number of purchases made?
 - Does voucher usage increase the average value of a customer's latest purchase?
 - Does subscribing to the newsletter increase or decrease the amount of time spent on the website for each customer's latest purchase?
