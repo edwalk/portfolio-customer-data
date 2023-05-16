@@ -2,6 +2,7 @@
 
 ## Status
 - Project 1: Completed (15/05/2023)
+
 Please check the Project 1 - Daily Monitoring Dashboard to download the .xslx file or a .pdf extract
 
 - Project 2: Not started (15/05/2023)
