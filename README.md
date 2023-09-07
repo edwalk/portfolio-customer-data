@@ -5,7 +5,7 @@
 
 Please check the Project 1 - Daily Monitoring Dashboard to download the [Excel file](https://edward-walker.space/portfolio/files/monitoring_dashboard.xlsx) or a [PDF extract](https://edward-walker.space/portfolio/files/monitoring_dashboard_pdf.pdf).
 
-- Project 2: Not started (15/05/2023)
+- Project 2: Not started (07/09/2023)
 
 ## Dataset
  This portfolio project uses a dataset from Kaggle: Online Shop Customer Sales Data
@@ -71,7 +71,7 @@ The dashboard displays the following:
 
 Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
 
-## Project 2 - Analysis
+## Project 2 - Analysis [NOT STARTED]
 The aim of this segment of the project is to analyse the data, identify correlations and potential causations and suggest data-driven next steps to improve sales and customer retention. 
 
 I will look to answer the following questions:
