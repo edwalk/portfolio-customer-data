@@ -70,7 +70,44 @@ The dashboard displays the following:
 
 Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
 
-## Project 2 - Analysis [NOT STARTED]
+## Project 2 - Tableau Dashboard
+For this project, I mirrored the dashboard in Project 1 in Tableau. 
+
+### Skills displayed:
+- Tableau visualisation creation
+- Tableau dashboard creation & formatting
+- Creation of custom / calculated fields in Tableau
+  
+The dashboard displays the following:
+
+### Customers
+
+- Average age
+- Age group breakdown
+- Gender split
+- Average Time since last purchase 
+- Proportion of returning customers (more than a single purchase)
+- Proportion of single-purchase customers (only 1 purchase) 
+- Proportion of active returning customers (people with more than one purchase, with their last purchase made less than 90 days ago)
+- Proportion of lapsed returning customers (people with more than 1 purchase, with their last purchase made more than 90 days ago) 
+- Proportion of new customers (people with a single purchase within the last 90 days) 
+- Proportion of lapsed new customers (people with a single purchase more than 90 days ago) 
+
+### Total Sales
+- Count 
+- Average number of sales per customer 
+
+### Latest Sales
+- Average amount of latest purchase per customer 
+- Breakdown of different payment methods used 
+- Proportion of latest sales involving voucher usage
+- Average time spent on website 
+- Breakdown of different browsers used
+- Proportion of newsletter subscribers
+
+Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
+
+## Project 3 - Analysis [NOT STARTED]
 The aim of this segment of the project is to analyse the data, identify correlations and potential causations and suggest data-driven next steps to improve sales and customer retention. 
 
 I will look to answer the following questions:
