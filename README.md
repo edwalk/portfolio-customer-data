@@ -35,7 +35,6 @@ The aim of this segment of the project is to create a dashboard that could hypot
 
 ### Skills displayed
 - Data Source insertion in PowerQuery
-- Data normalization and cleaning in PowerQuery
 - Pivot Tables
 - Pivot Charts
 - Dynamic Formulas & data points
