@@ -71,7 +71,7 @@ The dashboard displays the following:
 Because the data does not include purchase details outside of the latest purchase made by a customer, it is not possible to provide aggregate data on elements such as voucher usage, newsletter subscription status or time spent on website for the entire purchase history of each customer.
 
 ## Project 2 - Tableau Dashboard
-For this project, I mirrored the dashboard in Project 1 in Tableau. 
+For this project, I mirrored the dashboard in Project 1 in Tableau. The dashboard can be accessed here: https://public.tableau.com/app/profile/edward.walker3149/viz/CustomerDataDashboard_16941274761550/Dashboard#1
 
 ### Skills displayed:
 - Tableau visualisation creation
