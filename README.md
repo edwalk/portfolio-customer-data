@@ -5,7 +5,11 @@
 
 Please check the Project 1 - Daily Monitoring Dashboard to download the [Excel file](https://edward-walker.space/portfolio/files/monitoring_dashboard.xlsx) or a [PDF extract](https://edward-walker.space/portfolio/files/monitoring_dashboard_pdf.pdf).
 
-- Project 2: Not started (07/09/2023)
+- Project 2: Completed (09/09/2023)
+
+Please check the Project 2 - Tableau Dashboard category to access the Tableau Public dashboard.
+
+- Project 3: Not started
 
 ## Dataset
  This portfolio project uses a dataset from Kaggle: Online Shop Customer Sales Data
